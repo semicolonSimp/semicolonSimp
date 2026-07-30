@@ -10,18 +10,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=semicolonSimp&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=semicolonSimp&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semicolonSimp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
+:
+![](https://github-readme-stats.shion.dev/api?username=semicolonSimp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=semicolonSimp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=semicolonSimp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=semicolonSimp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semicolonSimp&label=Profile%20Views&style=for-the-badge&color=blue"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
