@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=semicolonSimp&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
-:
+
 ![](https://github-readme-stats.shion.dev/api?username=semicolonSimp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=semicolonSimp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=semicolonSimp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
