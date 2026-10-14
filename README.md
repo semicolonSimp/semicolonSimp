@@ -152,7 +152,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semicolonSimp&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semicolonSimp&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -185,7 +185,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semicolonSimp&style=for-the-badge&color=4F46E5" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=semicolonSimp&style=for-the-badge&color=4F46E5" alt="Profile Views" />
 </p>
 
 <p align="center">
